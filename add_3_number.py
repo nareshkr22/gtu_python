@@ -1,3 +1,4 @@
+#Print sum of three numbers entered
 num1 = input("Enter Number 1 : ")
 num2 = input("Enter Number 2 : ")
 num3 = input("Enter Number 3 : ")
