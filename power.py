@@ -1,4 +1,4 @@
-#print base and power from entered number. If no possibility then display suitable message
+#print base and power from entered number. If base is not between 3<= base <=7 then display suitable message
 
 num = int(input("Enter a number : "))
 
