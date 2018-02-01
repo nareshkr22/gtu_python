@@ -13,3 +13,6 @@ GTU PYTHON Program
 | Practical 8 | 31-Jan-2018 | Print sum of all decimal numbers from string of numbers separated by comma |
 | Practical 9 | 31-Jan-2018 | Write a function that demonstrate use of positional parameters , keyword parameters and default parameters |
 | Practical 10 | 31-Jan-2018 | Write a function that accepts 2 strings as arguments and returns TRUE if either string occurs anywhere in other  |
+| Practical 11 | 01-Feb-2018 | Print series of fibonacci numbers upto a given limit using recursion  |
+| Practical 12 | 01-Feb-2018 | Print binary equivalent of given decimal number using recursion.  |
+| Practical 13 | 01-Feb-2018 | Print LCM and GCD of 2 numbers using recursion  |
