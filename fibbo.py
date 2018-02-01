@@ -1,3 +1,5 @@
+#Print series of fibonacci numbers upto a given limit using recursion 
+
 def fibbo(num):
     if num <= 1:
         return num
