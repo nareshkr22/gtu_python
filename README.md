@@ -25,3 +25,5 @@ GTU PYTHON Program
 | Practical 21   | 05-Feb-2018   | Program to copy content of one file into another file    |
 | Practical 22   | 05-Feb-2018   | Program to read a text file and print all numbers present in it    |
 | Practical 23   | 05-Feb-2018   | Program to append content of a text file into another    |
+| Practical 24   | 06-Feb-2018   | Program to read a file and capitalize first letter of every word in file    |
+| Practical 25   | 06-Feb-2018   | Program to read content of file in reverse order |
