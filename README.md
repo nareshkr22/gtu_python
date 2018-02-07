@@ -27,3 +27,5 @@ GTU PYTHON Program
 | Practical 23   | 05-Feb-2018   | Program to append content of a text file into another    |
 | Practical 24   | 06-Feb-2018   | Program to read a file and capitalize first letter of every word in file    |
 | Practical 25   | 06-Feb-2018   | Program to read content of file in reverse order |
+| Practical 26   | 07-Feb-2018   | Write and call a function that takes a tuple as an argument and returns max and min number by single return |
+| Practical 27   | 07-Feb-2018   | An interactive program which first asks user to enter basic information of atleast 10 students and returns required information from information repository |
