@@ -29,3 +29,12 @@ GTU PYTHON Program
 | Practical 25   | 06-Feb-2018   | Program to read content of file in reverse order |
 | Practical 26   | 07-Feb-2018   | Write and call a function that takes a tuple as an argument and returns max and min number by single return |
 | Practical 27   | 07-Feb-2018   | An interactive program which first asks user to enter basic information of atleast 10 students and returns required information from information repository |
+| Practical 28   | 14-Feb-2018   | A program to sort all even numbers and then all odd numbers in given list |
+| Practical 29   | 14-Feb-2018   | A function that takes 2 lists as an argument and returns true if both contains same elements not necessarily in same order |
+| Practical 30   | 14-Feb-2018   | A function that takes a list as an argument and print sum of all integers including integers of sublist(if any) |
+| Practical 31   | 16-Feb-2018   | A function that calls following user defined functions 
+									- sum of all even positions number in list
+									- check if any number between 20 to 35
+									- find factorial of every 4th position number
+									 |
+| Practical 30   | 16-Feb-2018   | A program that reads a file which is having numbers between 0 to 9 (in numeric/word form) and gives another representation  |									 
