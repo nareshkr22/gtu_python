@@ -4,8 +4,8 @@ GTU PYTHON Program
 | Practical | Date | Title |
 | ----------- | --------- | ------ |
 | Practical 1   | 23-Jan-2018   | Print Hello World  |
-| Practical 2   | 23-Jan-2018   | Print sum of three numbers entered |
-| Practical 3   | 23-Jan-2018   | Print the largest of three numbers entered |
+|    |   | Print sum of three numbers entered |
+|    |   | Print the largest of three numbers entered |
 | Practical 4   | 24-Jan-2018   | Print sum of all numbers within given range |
 | Practical 5   | 24-Jan-2018   | Print all prime numbers within given range |
 | Practical 6   | 24-Jan-2018   | Print largest odd number from 10 entered number  |
@@ -34,3 +34,4 @@ GTU PYTHON Program
 | Practical 30   | 14-Feb-2018   | A function that takes a list as an argument and print sum of all integers including integers of sublist(if any) |
 | Practical 31   | 16-Feb-2018   | A function that calls following user defined functions 									- sum of all even positions number in list									- check if any number between 20 to 35									- find factorial of every 4th position number |
 | Practical 30   | 16-Feb-2018   | A program that reads a file which is having numbers between 0 to 9 (in numeric/word form) and gives another representation  |									 
+9
