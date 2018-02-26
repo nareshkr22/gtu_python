@@ -4,8 +4,8 @@ GTU PYTHON Program
 | Practical | Date | Title |
 | ----------- | --------- | ------ |
 | Practical 1   | 23-Jan-2018   | Print Hello World  |
-|    |   | Print sum of three numbers entered |
-|    |   | Print the largest of three numbers entered |
+| Practical 2   | 23-Jan-2018  | Print sum of three numbers entered |
+| Practical 3   | 23-Jan-2018  | Print the largest of three numbers entered |
 | Practical 4   | 24-Jan-2018   | Print sum of all numbers within given range |
 | Practical 5   | 24-Jan-2018   | Print all prime numbers within given range |
 | Practical 6   | 24-Jan-2018   | Print largest odd number from 10 entered number  |
@@ -34,4 +34,7 @@ GTU PYTHON Program
 | Practical 30   | 14-Feb-2018   | A function that takes a list as an argument and print sum of all integers including integers of sublist(if any) |
 | Practical 31   | 16-Feb-2018   | A function that calls following user defined functions 									- sum of all even positions number in list									- check if any number between 20 to 35									- find factorial of every 4th position number |
 | Practical 30   | 16-Feb-2018   | A program that reads a file which is having numbers between 0 to 9 (in numeric/word form) and gives another representation  |									 
-9
+| Practical 31   | 20-Feb-2018   | A function that takes a list as an argument and returns first & last even number. If only one even number exists or no even number exists, exception is raised. |
+| Practical 32   | 22-Feb-2018   | 1. A program which contains a Student class having methods to : (i) initialize full name, age and cpi of student (ii) print first name, last name and surname (iii) sort list of  students based on first name Call appropriate methods to enter and display information for n students.|
+| Practical 33   | 20-Feb-2018   | 2. A program which contains a class having methods to: (i) initialize currency value (ii) update existing currency by new one (iii) check for non-zero currency (iv) print currency value in standard format (For 45012.3269 = Rs.45,012.33)|							 
+| Practical 34   | 26-Feb-2018   | 1. A program which contains subclass IDstudent of class Student and methods to: (i) create unique enrolment number for each student (ii) sort list of students based on enrolment number Call appropriate methods to enter and display information for n students |
